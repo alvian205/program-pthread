@@ -1,0 +1,3 @@
+Halo dari file teks!
+Ini baris kedua.
+Ini baris ketiga.
